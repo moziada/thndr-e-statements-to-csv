@@ -4,11 +4,10 @@ This script processes thdr exported e-statement PDF files, extracts transaction 
 
 ## Prerequisites
 
-1. Python
-
+1. Python  
 This script is tested and working properly with python 3.10.11 version.  
-2. Install Dependencies
 
+2. Install Dependencies  
 Install the required Python libraries by running:
 
 ```bash
