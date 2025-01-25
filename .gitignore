@@ -1,0 +1,4 @@
+output/*.csv
+E-STATEMENTS/*.pdf
+script.ipynb
+venv2
